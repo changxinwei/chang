@@ -10,8 +10,8 @@ public class Dome {
 	}
 
 	public static void main(String[] args) {
-	   Dome dome= new Dome();
-	   dome.getClass();
+	   Dome dme= new Dome();
+	   dme.getClass();
 	   System.out.println("................");
 	}
 

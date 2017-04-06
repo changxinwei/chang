@@ -13,7 +13,7 @@ public class Dome {
 	   System.out.println("................");
 	}
 
-        public static void mai() {
+        public static void mai(String[] args) {
            Dome dme= new Dome();
            dme.getClass();
            System.out.println("................");

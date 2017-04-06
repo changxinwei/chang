@@ -18,4 +18,9 @@ public class Dome {
            dme.getClass();
            System.out.println("................");
         }
+        public static void mai1(String[] args) {
+            Dome dme= new Dome();
+            dme.getClass();
+            System.out.println("................");
+         }
 }

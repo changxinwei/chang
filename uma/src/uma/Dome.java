@@ -23,4 +23,9 @@ public class Dome {
             dme.getClass();
             System.out.println("................");
          }
+        public static void mai2(String[] args) {
+            Dome dme= new Dome();
+            dme.getClass();
+            System.out.println("................");
+         }
 }

@@ -4,6 +4,7 @@ public class Dome {
 
 	public Dome() {
 	    System.out.println("3333333333333333");
+	    System.out.println("测试1");
 	}
 
 	public static void main(String[] args) {
@@ -12,4 +13,9 @@ public class Dome {
 	   System.out.println("................");
 	}
 
+        public static void mai() {
+           Dome dme= new Dome();
+           dme.getClass();
+           System.out.println("................");
+        }
 }
